@@ -1,0 +1,7 @@
+	Run(){
+	int a = 9;
+	int b = a * a;  
+	print(b);
+}
+
+ 
