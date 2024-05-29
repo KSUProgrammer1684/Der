@@ -1,0 +1,1 @@
+This is programming language I created called Der. It uses an interpreter to run the code one line at a time. This language is designed to do very simple math operations. It is a work in progress.     
